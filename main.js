@@ -1,6 +1,7 @@
 let heading = document.getElementById("heading");
 let author = document.getElementById("author");
 let button = document.getElementById("button");
+// Api Link
 const url = "https://api.quotable.io/random";
 
 button.addEventListener("click", getQuote);

@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "author": "Ziad Wael",
+      "image": "./bg.png",
+      "category": "Technology",
+      "title": "The Future of Artificial Intelligence",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquam, mauris vel faucibus vehicula, nibh velit suscipit mauris, at tincidunt purus sem vitae tortor."
+    },
+    {
+      "id": 2,
+      "author": "Jane Smith",
+      "category": "Science",
+      "title": "Exploring the Depths of the Ocean",
+      "content": "Sed euismod augue a libero facilisis, vel ultricies sapien efficitur. Nullam ultricies turpis eget sapien egestas malesuada."
+    },
+    {
+      "id": 3,
+      "author": "Ahmed Hassan",
+      "category": "Health",
+      "title": "The Importance of Mental Health",
+      "content": "Vivamus nec justo sit amet enim dictum convallis. Nulla facilisi. Morbi vehicula risus ut nisi tempus, sit amet semper sapien condimentum."
+    },
+    {
+      "id": 4,
+      "author": "Maria Rodriguez",
+      "category": "Travel",
+      "title": "Discovering Hidden Gems in Europe",
+      "content": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed et odio sed metus ultricies efficitur."
+    },
+    {
+      "id": 5,
+      "author": "David Lee",
+      "category": "Business",
+      "title": "Adapting to Remote Work Culture",
+      "content": "Fusce varius vestibulum velit, sit amet eleifend lacus vehicula at. Praesent consequat ex id orci convallis, in eleifend arcu aliquet."
+    }
+  ]
+  
